@@ -1,0 +1,3 @@
+# Project exclude paths
+/pro-recom-common/target/
+/pro-recom-offline/target/
